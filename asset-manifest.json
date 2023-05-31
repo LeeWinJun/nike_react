@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d91e6f2.css",
+    "main.js": "/static/js/main.962b4fbc.js",
+    "static/js/787.488b4793.chunk.js": "/static/js/787.488b4793.chunk.js",
+    "static/media/Special jordan_2.jpg": "/static/media/Special jordan_2.ef67191b5a8572f7e215.jpg",
+    "static/media/Special jordan_1.jpg": "/static/media/Special jordan_1.b37ad298093823e02abe.jpg",
+    "static/media/everyday leggings_2.jpg": "/static/media/everyday leggings_2.114a204b76e4d6044965.jpg",
+    "static/media/everyday leggings_3.jpg": "/static/media/everyday leggings_3.8cb38c0399d6d1117614.jpg",
+    "static/media/everyday leggings_1.jpg": "/static/media/everyday leggings_1.1597f4e5bb857c5c9ecc.jpg",
+    "index.html": "/index.html",
+    "main.2d91e6f2.css.map": "/static/css/main.2d91e6f2.css.map",
+    "main.962b4fbc.js.map": "/static/js/main.962b4fbc.js.map",
+    "787.488b4793.chunk.js.map": "/static/js/787.488b4793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d91e6f2.css",
+    "static/js/main.962b4fbc.js"
+  ]
+}
